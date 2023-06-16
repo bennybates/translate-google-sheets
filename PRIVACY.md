@@ -1,4 +1,4 @@
-# Privacy Policy for PolyglotSheets
+# Privacy Policy for Translate Google Sheets
 
 This privacy policy describes how PolyglotSheets (the "App") collects, uses, and discloses your personal information. The App respects your privacy and is committed to protecting your personal data.
 
